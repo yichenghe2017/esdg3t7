@@ -133,7 +133,9 @@ p{
 	}
 	
 .logo{
+	background-color: transparent;
 	float:left;
+	width: 200px;
 	}
 	
 .res-nav_click{ display:none;}
